@@ -2,16 +2,13 @@
 	"private": true,
 	"name": "Mutex",
 	"version": "1.1.0",
-	"homepage": "https://github.com/Perennials/mutex-node",
+	"homepage": "https://github.com/hezki/mutex-node",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Perennials/mutex-node.git"
+		"url": "https://github.com/hezki/mutex-node.git"
 	},
 	"dependencies": {
 		"fs-ext": "0.5.x"
-	},
-	"devDependencies": {
-		"Unitest": "https://github.com/perennials/unitest-js/tarball/master"
-	},
+	},	
 	"main": "Mutex.js"
 }
